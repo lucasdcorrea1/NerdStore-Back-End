@@ -1,0 +1,13 @@
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.deps.json
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CopyComplete
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb

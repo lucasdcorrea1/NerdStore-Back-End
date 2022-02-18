@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NerdStore.Catalogo.Domain
+build_property.ProjectDir = C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Domain\
