@@ -1,0 +1,10 @@
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.deps.json
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfo.cs
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.CoreCompileInputs.cache
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Lucas\Back-End\APIs\NerdStore-Back-End\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.AssemblyReference.cache
